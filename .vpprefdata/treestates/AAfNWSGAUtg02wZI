@@ -7,11 +7,13 @@
 		<ExpandedPath>ModelRepository,dXzfj7KGAqACjAq_</ExpandedPath>
 		<SelectedPath>ModelRepository</SelectedPath>
 	</TreeState>
-	<TreeState name="DiagramNavigator" viewX="0" viewY="360">
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>UseCaseDiagram</ExpandedPath>
 		<ExpandedPath>UseCaseDiagram,8LlhbiGAUtg02w0Q</ExpandedPath>
+		<ExpandedPath>UseCaseDiagram,8LlhbiGAUtg02w0Q,3vQZbiGAUtg02w3a</ExpandedPath>
+		<ExpandedPath>UseCaseDiagram,8LlhbiGAUtg02w0Q,fU1pbiGAUtg02w0v</ExpandedPath>
 		<ExpandedPath>UseCaseDiagram,8LlhbiGAUtg02w0Q,vp_pbiGAUtg02w2r</ExpandedPath>
 		<ExpandedPath>ClassDiagram</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
@@ -35,7 +37,7 @@
 		<ExpandedPath>DiagramNavigator,Network Design</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,General</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
-		<SelectedPath>UseCaseDiagram,8LlhbiGAUtg02w0Q,vp_pbiGAUtg02w2r,XayYXSGGAqAQdA9C</SelectedPath>
+		<SelectedPath>UseCaseDiagram,8LlhbiGAUtg02w0Q</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
