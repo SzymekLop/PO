@@ -2,7 +2,7 @@
 <ProjectsViewInfo>
 	<DiagramOpenInfos activeDiagramId="ceWiUCGAUtg02wx3">
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="8LlhbiGAUtg02w0Q" maximized="true" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,742.0,658.0" diagramId="ceWiUCGAUtg02wx3" maximized="true" offsetX="232" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,1510.0,672.0" diagramId="ceWiUCGAUtg02wx3" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="b73fnSGGAqAQdAn7" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="bmsoXSGGAqAQdA7n" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="XayYXSGGAqAQdA9C" maximized="true" offsetX="0" offsetY="0"/>
@@ -11,9 +11,9 @@
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="nIqY8yGGAqBwARH1" maximized="true" offsetX="0" offsetY="0"/>
 	</DiagramOpenInfos>
 	<DiagramLastActivated>
-		<Diagram id="ceWiUCGAUtg02wx3" time="1670191548169"/>
-		<Diagram id="hjR1fSGGAqAAZxCV" time="1670191548057"/>
-		<Diagram id="8LlhbiGAUtg02w0Q" time="1670190429417"/>
+		<Diagram id="ceWiUCGAUtg02wx3" time="1670232962705"/>
+		<Diagram id="8LlhbiGAUtg02w0Q" time="1670232962615"/>
+		<Diagram id="hjR1fSGGAqAAZxCV" time="1670232879400"/>
 		<Diagram id="nIqY8yGGAqBwARH1" time="1670184174336"/>
 		<Diagram id="8.eWfSGGAqAAZwxi" time="1670184169181"/>
 		<Diagram id="bmsoXSGGAqAQdA7n" time="1670184073977"/>
